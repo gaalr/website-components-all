@@ -3,4 +3,4 @@
 Buttons
 Headers
 Navbar
-Footers
+Footers (absolute, calc, Bootstrap)
